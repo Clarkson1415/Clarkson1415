@@ -1,6 +1,6 @@
-# Hi, I’m Grace Clarkson  
+# About Me
 
-I’m a software engineer and hobbyist game developer passionate about building interactive experiences and tools. As well as creating great SFX and music.
+I’m a .Net software engineer and hobbyist game developer passionate about building interactive experiences and tools. As well as creating great SFX and music.
 I use GitHub to showcase my games and projects, work collaboratively and experiment with new ideas.
 
 ---
